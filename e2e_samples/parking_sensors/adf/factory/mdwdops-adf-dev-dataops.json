@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-dataops",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf55aa8c-82cf-4c76-a75e-e8c4d6e25178",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
