@@ -41,7 +41,7 @@
 		},
 		"P_Ingest_MelbParkingData_properties_0_typeProperties_notebookPath": {
 			"type": "string",
-			"defaultValue": "/notebooks/02_standardize"
+			"defaultValue": "/Repos/yuesheng@microsoft.com/dataopsdemo/e2e_samples/parking_sensors/databricks/notebooks/02_standardize"
 		},
 		"P_Ingest_MelbParkingData_properties_0_typeProperties_0_egg": {
 			"type": "string",
@@ -49,7 +49,7 @@
 		},
 		"P_Ingest_MelbParkingData_properties_4_typeProperties_notebookPath": {
 			"type": "string",
-			"defaultValue": "/notebooks/03_transform"
+			"defaultValue": "/Repos/yuesheng@microsoft.com/dataopsdemo/e2e_samples/parking_sensors/databricks/notebooks/03_transform"
 		},
 		"P_Ingest_MelbParkingData_properties_4_typeProperties_0_egg": {
 			"type": "string",
