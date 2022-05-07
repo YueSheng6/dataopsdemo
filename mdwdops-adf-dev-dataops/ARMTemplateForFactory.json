@@ -9,7 +9,7 @@
 		},
 		"P_Ingest_MelbParkingData_properties_0_typeProperties_notebookPath": {
 			"type": "string",
-			"defaultValue": "/Repos/yuesheng@microsoft.com/dataopsdemo/e2e_samples/parking_sensors/databricks/notebooks/02_standardize"
+			"defaultValue": "/notebooks/02_standardize"
 		},
 		"P_Ingest_MelbParkingData_properties_0_typeProperties_0_egg": {
 			"type": "string",
@@ -17,7 +17,7 @@
 		},
 		"P_Ingest_MelbParkingData_properties_4_typeProperties_notebookPath": {
 			"type": "string",
-			"defaultValue": "/Repos/yuesheng@microsoft.com/dataopsdemo/e2e_samples/parking_sensors/databricks/notebooks/03_transform"
+			"defaultValue": "/notebooks/03_transform"
 		},
 		"P_Ingest_MelbParkingData_properties_4_typeProperties_0_egg": {
 			"type": "string",
@@ -65,7 +65,7 @@
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
-				"description": "Hello from NDC Sydney!!!",
+				"description": "DataOps Demo for ADF Changes",
 				"activities": [
 					{
 						"name": "StandardizeData",

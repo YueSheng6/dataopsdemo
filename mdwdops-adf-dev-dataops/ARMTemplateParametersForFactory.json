@@ -6,13 +6,13 @@
 			"value": "mdwdops-adf-dev-dataops"
 		},
 		"P_Ingest_MelbParkingData_properties_0_typeProperties_notebookPath": {
-			"value": "/Repos/yuesheng@microsoft.com/dataopsdemo/e2e_samples/parking_sensors/databricks/notebooks/02_standardize"
+			"value": "/notebooks/02_standardize"
 		},
 		"P_Ingest_MelbParkingData_properties_0_typeProperties_0_egg": {
 			"value": "dbfs:/mnt/datalake/sys/databricks/libs/ddo_transform-localdev-py2.py3-none-any.whl"
 		},
 		"P_Ingest_MelbParkingData_properties_4_typeProperties_notebookPath": {
-			"value": "/Repos/yuesheng@microsoft.com/dataopsdemo/e2e_samples/parking_sensors/databricks/notebooks/03_transform"
+			"value": "/notebooks/03_transform"
 		},
 		"P_Ingest_MelbParkingData_properties_4_typeProperties_0_egg": {
 			"value": "dbfs:/mnt/datalake/sys/databricks/libs/ddo_transform-localdev-py2.py3-none-any.whl"
