@@ -30,7 +30,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/notebooks/02_standardize",
+					"notebookPath": "/Repos/yuesheng@microsoft.com/dataopsdemo/e2e_samples/parking_sensors/databricks/notebooks/02_standardize",
 					"baseParameters": {
 						"infilefolder": {
 							"value": "@variables('infilefolder')",
@@ -198,7 +198,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/notebooks/03_transform",
+					"notebookPath": "/Repos/yuesheng@microsoft.com/dataopsdemo/e2e_samples/parking_sensors/databricks/notebooks/03_transform",
 					"baseParameters": {
 						"loadid": {
 							"value": "@pipeline().RunId",
