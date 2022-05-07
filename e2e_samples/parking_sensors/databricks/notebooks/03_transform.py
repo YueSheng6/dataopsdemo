@@ -113,9 +113,9 @@ context = BaseDataContext(project_config=data_context_config)
 # 2. Create a BatchRequest based on parkingbay_sdf dataframe.
 # https://docs.greatexpectations.io/docs/terms/batch
 batch_request = RuntimeBatchRequest(
-    datasource_name="transformed_data_source",
-    data_connector_name="transformed_data_connector",
-    data_asset_name="paringbaydataaset",  # This can be anything that identifies this data_asset for you
+    datasource_name="parkingbay_data_source",
+    data_connector_name="parkingbay_data_connector",
+    data_asset_name="parkingbaydataaset",  # This can be anything that identifies this data_asset for you
     batch_identifiers={
         "environment": "stage",
         "pipeline_run_id": "pipeline_run_id",
