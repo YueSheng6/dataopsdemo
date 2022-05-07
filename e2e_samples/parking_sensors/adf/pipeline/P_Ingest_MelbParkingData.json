@@ -1,7 +1,7 @@
 {
 	"name": "P_Ingest_MelbParkingData",
 	"properties": {
-		"description": "DataOps Demo for ADF Changes",
+		"description": "DataOps Demo for ADF Changes 2",
 		"activities": [
 			{
 				"name": "StandardizeData",
