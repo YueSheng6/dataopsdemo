@@ -1,0 +1,13 @@
+{
+	"name": "AzureMLService1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureMLService",
+		"typeProperties": {
+			"subscriptionId": "eba7afe4-2bd5-4ea4-830e-9414bb045988",
+			"resourceGroupName": "DevOps_AzureML_Demo",
+			"mlWorkspaceName": "AzureML_Demo_ws1",
+			"authentication": "MSI"
+		}
+	}
+}
